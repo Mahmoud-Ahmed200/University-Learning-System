@@ -1,0 +1,4 @@
+102 Physics Prof.Johnson Tuessday Room102 10:00 12:00 30
+103 Biology Dr.Lee Wednesday Room103 11:00 13:00 28
+104 Chemistry Prof.Brown Thursday Room104 13:00 15:00 26
+105 Programing DR.naglaa saturday hall101 12:45 13:45 1500

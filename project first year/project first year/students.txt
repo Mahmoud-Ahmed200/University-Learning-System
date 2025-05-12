@@ -1,0 +1,5 @@
+102 mohamed 19 Sc ma 12
+103 Karim 20 IT ka 13
+104 Alaa 20 Csys al 14
+120 Mahmoud 17 Cs mah1 15
+154 Mahmoud 19 CS mah2 16

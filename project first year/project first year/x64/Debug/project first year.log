@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\ma258\source\repos\project first year\project first year\main.cpp(416,63): warning C4101: 'gradeIndex': unreferenced local variable
+C:\Users\ma258\source\repos\project first year\project first year\main.cpp(479,6): warning C4101: 'select': unreferenced local variable
+C:\Users\ma258\source\repos\project first year\project first year\main.cpp(579,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ma258\source\repos\project first year\project first year\main.cpp(291,1): warning C4717: 'LoginAsStudent': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\ma258\source\repos\project first year\project first year\main.cpp(273,1): warning C4717: 'LoginAsAdmin': recursive on all control paths, function will cause runtime stack overflow
+  project first year.vcxproj -> C:\Users\ma258\source\repos\project first year\x64\Debug\project first year.exe
